@@ -2,7 +2,9 @@
 
 This is the case study for Trivago A/B testing. I've been using Python 3.7, Data Science packages and Jupyter notebook   
 
-First step you need to take is to create a virtual environment and install all necessary dependencies(packages):
+If you want to run the code, you should create a virtual environment and install all necessary dependencies(packages).
+I've also added an HTML file of a study, just to be easier to you to see it. 
+If you want to run the code, just follow the instructions
 
 ##### Creating virtual environment
  python3 -m venv <name of the venv> 
