@@ -2,13 +2,16 @@
 
 This is the case study for Trivago A/B testing. I've been using Python 3.7, Data Science packages and Jupyter notebook   
 
-If you want to run the code, you should create a virtual environment and install all necessary dependencies(packages).
-I've also added an HTML file of a study, just to be easier to you to see it. 
-If you want to run the code, just follow the instructions
+Easiest way to run the code is to enter CaseStudyNotebook folder and open TrivagoCaseStudy.ipynb file in jupyter notebook, install dependencies and you'll be able to access all cells in that notebook.
+
+If you want setup environment from begining, you should create a virtual environment and install all necessary dependencies(packages) or you can activate venv that I've sent to you and follow the instructions bellow.
 
 ##### Creating virtual environment
  python3 -m venv <name of the venv> 
-
+ 
+ ##### Also, you can activate venv that I've sent to you:
+~ . trivago/bin/activate
+   
 ##### Activate virtual environment
  ~ .venv/bin/activate
    
@@ -32,8 +35,5 @@ If you want to run the code, just follow the instructions
 * python -m ipykernel install --user --name=myenv
  
  
-##### Also, you can activate venv that I've sent to you:
-~ . trivago/bin/activate
-   
-##### I've also added an HTML of jupyter notebook case study
+
 
